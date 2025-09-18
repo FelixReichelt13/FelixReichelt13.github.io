@@ -2,14 +2,13 @@ title: "Felix Reichelt"
 description: "PhD candidate (Genetic Epidemiology, UMCG). Gene × stress exposure and response in relation to cardiometabolic health."
 repository: "FelixReichelt13/FelixReichelt13.github.io"
 
-# keep it simple so Pages can build
 markdown: kramdown
 highlighter: rouge
 timezone: Europe/Amsterdam
 
-# make sure Jekyll picks up _pages and ignores the template README
 include:
   - _pages
+
 exclude:
   - README.md
   - docs
@@ -17,10 +16,29 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# safe plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 kramdown:
   input: GFM
+
+# Optional author block (not required for build, but useful for SEO)
+author:
+  name: "Felix Reichelt"
+  email: "felix1395@live.de"
+  city: "Groningen, NL"
+  university: "UMC Groningen — Dept. of Genetic Epidemiology"
+  github: "FelixReichelt13"
+  linkedin: "felixreichelt"
+  scholar: "sIZi9sAAAAAJ"
+  avatar: "images/avatar.jpg"
+
+# Simple top navigation
+nav:
+  - title: "About"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV"
+    url: "/cv/"
