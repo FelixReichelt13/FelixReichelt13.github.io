@@ -19,11 +19,11 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
 
 kramdown:
   input: GFM
 
-# Optional author block (not required for build, but useful for SEO)
 author:
   name: "Felix Reichelt"
   email: "felix1395@live.de"
@@ -34,7 +34,6 @@ author:
   scholar: "sIZi9sAAAAAJ"
   avatar: "images/avatar.jpg"
 
-# Simple top navigation
 nav:
   - title: "About"
     url: "/"
