@@ -1,35 +1,15 @@
-# ===================== Site Settings =====================
 title: "Felix Reichelt"
 description: "PhD candidate (Genetic Epidemiology, UMCG). Gene × stress exposure and response in relation to cardiometabolic health."
 repository: "FelixReichelt13/FelixReichelt13.github.io"
 
-google_scholar_stats_use_cdn: true
-google_analytics_id:
+# keep it simple so Pages can build
+markdown: kramdown
+highlighter: rouge
+timezone: Europe/Amsterdam
 
-# ===================== Author =====================
-author:
-  name: "Felix Reichelt"
-  email: "felix1395@live.de"
-  city: "Groningen, NL"
-  university: "UMC Groningen — Dept. of Genetic Epidemiology"
-  github: "FelixReichelt13"
-  linkedin: "felixreichelt"
-  scholar: "sIZi9sAAAAAJ"
-  avatar: "images/avatar.jpg"
-
-# ===================== Navigation =====================
-nav:
-  - title: "About"
-    url: "/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "CV"
-    url: "/cv/"
-
-# ===================== Build =====================
+# make sure Jekyll picks up _pages and ignores the template README
 include:
   - _pages
-
 exclude:
   - README.md
   - docs
@@ -37,20 +17,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-
-sass:
-  style: compressed
-
-permalink: pretty
-timezone: Europe/Amsterdam
-
-# ===================== Plugins (Pages-safe) =====================
+# safe plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jemoji
+
+kramdown:
+  input: GFM
