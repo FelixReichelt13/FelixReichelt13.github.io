@@ -1,64 +1,50 @@
 # Site Settings
-
-
 title: "Felix Reichelt"
 description: "PhD candidate (Genetic Epidemiology, UMCG). Gene × stress exposure and response in relation to cardiometabolic health."
-repository: FelixReichelt13/.github.io
-
+repository: "FelixReichelt13/FelixReichelt13.github.io"
 
 google_scholar_stats_use_cdn: true
-# Optional analytics (paste your ID if you have one)
+
+# Optional analytics
 google_analytics_id:
 
-
-# SEO (optional). Paste verification tokens when you add Search Console.
+# SEO (optional)
 google_site_verification:
 bing_site_verification:
 baidu_site_verification:
 
-
-# Author block (used across the theme)
+# Author block
 author:
-name: "Felix Reichelt"
-email: "felix1395@live.de"
-city: "Groningen, NL"
-university: "UMC Groningen — Dept. of Genetic Epidemiology"
-# Add your links below; remove any you do not want shown
-github: "FelixReichelt13"
-linkedin: "felixreichelt"
-scholar: "sIZi9sAAAAAJ" # e.g., DhtAFkwAAAAJ
-# twitter: ""
+  name: "Felix Reichelt"
+  email: "felix1395@live.de"
+  city: "Groningen, NL"
+  university: "UMC Groningen — Dept. of Genetic Epidemiology"
+  github: "FelixReichelt13"
+  linkedin: "felixreichelt"
+  scholar: "sIZi9sAAAAAJ"
 
-
-# Navbar items (left as in template; you can add/remove pages later)
+# Navbar items
 nav:
-- title: "About"
-url: "/"
-- title: "Publications"
-url: "/publications/"
-- title: "CV"
-url: "/cv/"
+  - title: "About"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV"
+    url: "/cv/"
 
-
-# Build settings (keep as provided by the template)
+# Build settings
 markdown: kramdown
 kramdown:
-input: GFM
-
+  input: GFM
 
 # Theme assets
 sass:
-style: compressed
-
+  style: compressed
 
 # Permalinks
 permalink: pretty
 
-
-# Plugins (as per template)
+# Plugins (supported by GitHub Pages)
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
-
-
-# Favicon: place generated files under /images/favicon/ and reference as needed in head include
+  - jekyll-feed
+  - jekyll-seo-tag
