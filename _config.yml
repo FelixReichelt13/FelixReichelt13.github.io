@@ -1,26 +1,12 @@
-# ============================================================
-# Site Settings
-# ============================================================
-
+# ===================== Site Settings =====================
 title: "Felix Reichelt"
 description: "PhD candidate (Genetic Epidemiology, UMCG). Gene × stress exposure and response in relation to cardiometabolic health."
 repository: "FelixReichelt13/FelixReichelt13.github.io"
 
-# Automatically load citation counts via crawler
 google_scholar_stats_use_cdn: true
-
-# Optional analytics
 google_analytics_id:
 
-# SEO verification tokens (leave blank unless you have them)
-google_site_verification:
-bing_site_verification:
-baidu_site_verification:
-
-# ============================================================
-# Author block (used across the theme)
-# ============================================================
-
+# ===================== Author =====================
 author:
   name: "Felix Reichelt"
   email: "felix1395@live.de"
@@ -28,14 +14,10 @@ author:
   university: "UMC Groningen — Dept. of Genetic Epidemiology"
   github: "FelixReichelt13"
   linkedin: "felixreichelt"
-  scholar: "sIZi9sAAAAAJ"   # your Google Scholar ID
-  orcid:
-  avatar: "images/avatar.jpg"   # place a square portrait at images/avatar.jpg
+  scholar: "sIZi9sAAAAAJ"
+  avatar: "images/avatar.jpg"
 
-# ============================================================
-# Navigation bar (top menu)
-# ============================================================
-
+# ===================== Navigation =====================
 nav:
   - title: "About"
     url: "/"
@@ -44,10 +26,7 @@ nav:
   - title: "CV"
     url: "/cv/"
 
-# ============================================================
-# Build settings
-# ============================================================
-
+# ===================== Build =====================
 include:
   - _pages
 
@@ -55,6 +34,8 @@ exclude:
   - README.md
   - docs
   - google_scholar_crawler
+  - Gemfile
+  - Gemfile.lock
 
 markdown: kramdown
 highlighter: rouge
@@ -68,10 +49,7 @@ sass:
 permalink: pretty
 timezone: Europe/Amsterdam
 
-# ============================================================
-# Plugins supported by GitHub Pages
-# ============================================================
-
+# ===================== Plugins (Pages-safe) =====================
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
