@@ -1,58 +1,88 @@
+
+
+# 👋 Hi, I’m **Felix Reichelt**
+
+🎓 **PhD Candidate** in Genetic Epidemiology @ University Medical Center Groningen (UMCG)  
+🧬 Research focus: **Gene × Stress Exposures & Responses → Cardiometabolic Health**  
+
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
+## 🔎 Research Question
+**“How does heritability impact stress exposure, and what insights do gene × stress exposure interactions offer regarding their link to cardiometabolic health?”**
+
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+## 📑 Thesis
+**Title:** *When Genes Stress Out: Deconstructing the Heritability of Stress Exposures and their Relation with Cardiometabolic Outcomes*  
+🎓 Rijksuniversiteit Groningen, Faculty of Medical Sciences (UMCG)  
+👨‍🏫 Supervisors: Prof. Harold Snieder, Prof. Eco de Geus, Prof. Maryam Kavousi  
+📅 Defense planned: **July 1st, 2027**
 
-<span class='anchor' id='about-me'></span>
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## 📖 Abstract
+Using the large-scale **LifeLines cohort (N ≈ 160,000)**, I study how stress exposures  
+(long-term difficulties, stressful life events, childhood trauma, loneliness, and lack of social support)  
+are shaped by **genetic vs. environmental influences**.  
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+✔️ We quantify heritability of these stressors  
+✔️ Explore **gene × stress interactions**  
+✔️ Link findings to **cardiometabolic health outcomes**  
 
+Replication in the Dutch Twin Registry and Rotterdam Study ensures robustness.  
+We also integrate **polygenic risk scores** and **machine learning** to improve prediction of cardiovascular risk (e.g., coronary artery calcification).  
+
+---
+
+## ✉️ Contact
+- 📧 [felix1395@live.de](mailto:felix1395@live.de)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/felixreichelt)  
+- 🖥️ [GitHub](https://github.com/FelixReichelt13)  
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)  
+---
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Poster Presentation at IGES (International Genetics Conference)
+- *2025.03*: &nbsp;🎉🎉 Oral Presentation at Max Planck Conference
+---
 
-# 📝 Publications 
+## 🎓 Education
+- 📕 **PhD (2023–2027)**, UMCG, Groningen – *Genes, Stress & Health*  
+- 📗 **MSc (2020–2022)**, Biomedical Sciences, University of Amsterdam – *Mendelian Randomization (NKI)* & *Proteomics (SILS)*  
+- 📘 **BSc (2015–2019)**, Molecular Cell Biology, Wageningen University – *Antibiotic Resistance Research*  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## 📝 Selected Publication
+- **Beulens, J. W., Reichelt, F., et al. (2024).**  
+*Type 2 diabetes complications in ethnic minority compared with European host populations: a systematic review and meta-analysis.*  
+**BMJ Open Diabetes Research & Care, 12(6).**  
+<span class='show_paper_citations' data='YOUR_PAPER_ID'></span>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+---
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## 💼 Experience
+- 🧪 Sanquin (2022) – Autoimmune diagnostics (ELISA, flow cytometry, IF)  
+- 🧬 inBiome (2021–2022) – COVID-19 molecular diagnostics (qPCR, variant scanning)  
+- 🧬 Centogene (2020) – Rare disease diagnostics, oncology panels  
+- 🧪 Eurofins (2020) – Pre-analytical workflows  
+- 🎖️ German Army (2013–2014) – Corporal, WachBtl. in Berlin 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## ⚡ Skills
+- 💻 **Technical:** Python, R, bioinformatics workflows, GWAS, PRS, Mendelian Randomization, (sc)RNA-seq  
+- 📜 **Certificates:** Art. 9 (animal experiments)  
+- 🤝 **Soft skills:** Academic writing, teamwork, leadership, communication  
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## 🌍 Languages
+🇩🇪 German (native) · 🇬🇧 English (C2) · 🇳🇱 Dutch (C1) · 🇸🇪 Swedish (A2) · 🇵🇱 Polish (A1)  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+---
+
+## 🎯 Interests
+🧘 Yoga · 💃 Ballroom dancing · 🪂 Parachute jumping · 🥋 Krav-Maga · ✈️ Traveling · 🏋️ Powerlifting · 📚 Sci-Fi  
+
+
