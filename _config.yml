@@ -1,19 +1,26 @@
+# ============================================================
 # Site Settings
+# ============================================================
+
 title: "Felix Reichelt"
 description: "PhD candidate (Genetic Epidemiology, UMCG). Gene × stress exposure and response in relation to cardiometabolic health."
 repository: "FelixReichelt13/FelixReichelt13.github.io"
 
+# Automatically load citation counts via crawler
 google_scholar_stats_use_cdn: true
 
 # Optional analytics
 google_analytics_id:
 
-# SEO (optional)
+# SEO verification tokens (leave blank unless you have them)
 google_site_verification:
 bing_site_verification:
 baidu_site_verification:
 
-# Author block
+# ============================================================
+# Author block (used across the theme)
+# ============================================================
+
 author:
   name: "Felix Reichelt"
   email: "felix1395@live.de"
@@ -21,9 +28,14 @@ author:
   university: "UMC Groningen — Dept. of Genetic Epidemiology"
   github: "FelixReichelt13"
   linkedin: "felixreichelt"
-  scholar: "sIZi9sAAAAAJ"
+  scholar: "sIZi9sAAAAAJ"   # your Google Scholar ID
+  orcid:
+  avatar: "images/avatar.jpg"   # place a square portrait at images/avatar.jpg
 
-# Navbar items
+# ============================================================
+# Navigation bar (top menu)
+# ============================================================
+
 nav:
   - title: "About"
     url: "/"
@@ -32,19 +44,35 @@ nav:
   - title: "CV"
     url: "/cv/"
 
+# ============================================================
 # Build settings
+# ============================================================
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - docs
+  - google_scholar_crawler
+
 markdown: kramdown
+highlighter: rouge
+
 kramdown:
   input: GFM
 
-# Theme assets
 sass:
   style: compressed
 
-# Permalinks
 permalink: pretty
+timezone: Europe/Amsterdam
 
-# Plugins (supported by GitHub Pages)
+# ============================================================
+# Plugins supported by GitHub Pages
+# ============================================================
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jemoji
