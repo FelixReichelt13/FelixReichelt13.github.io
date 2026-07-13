@@ -24,7 +24,4 @@ plugins:
 kramdown:
   input: GFM
 
-author:
-  name: "Felix Reichelt"
-  email: "felix1395@live.de"
-  location
+a
