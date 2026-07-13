@@ -27,17 +27,4 @@ kramdown:
 author:
   name: "Felix Reichelt"
   email: "felix1395@live.de"
-  location: "Groningen, NL"
-  employer: "UMC Groningen — Department of Epidemiology"
-  github: "FelixReichelt13"
-  linkedin: "felixreichelt"
-  googlescholar: "https://scholar.google.com/citations?user=sIZi9sAAAAAJ"
-  avatar: "/images/Lifelines_interview_2.jpeg"
-
-nav:
-  - title: "About"
-    url: "/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "CV"
-    url: "/cv/"
+  location
