@@ -17,11 +17,13 @@ I combine **large population cohorts, twin-family designs, statistical genetics,
 
 **2025.08:** 🎉 Poster presentation at the **International Genetic Epidemiology Society (IGES) Conference**, Cologne.
 
-**2025:** 🎉 Oral presentation at the **4th European Stress Conference**, Innsbruck, Austria.
+**2025.03:** 🎉 Oral presentation at the **Max Planck Conference**.
 
-**2025:** 🎉 Panel contribution at **ISCOMS, UMCG**: *“Innovating Stress Research: from Lab to Real Life.”*
+**2025.03:** 🎉 Oral presentation at the **4th European Stress Conference**, Innsbruck, Austria.
 
-**2024:** 🎉 Oral presentation at **WEON, the Annual Netherlands Epidemiology Congress**. The work was nominated for the **WEON Student Award**.
+**2025.08:** 🎉 Panel contribution at **ISCOMS, UMCG**: *“Innovating Stress Research: from Lab to Real Life.”*
+
+**2024.05:** 🎉 Oral presentation at **WEON, the Annual Netherlands Epidemiology Congress**. The work was nominated for the **WEON Student Award**.
 
 ## 🚩 Research Projects
 
@@ -52,15 +54,17 @@ During my MSc research at the **Dutch Cancer Institute (NKI)**, I used **Mendeli
 
 ### Published
 
-**Beulens JW, Reichelt F, Remmelzwaal S, Rutters F, Strooij B, Harms P, et al. (2024).**  
+**Joline W. J. Beulens, Felix Reichelt, Sharon Remmelzwaal, Femke Rutters, Bianca Strooij, Peter Harms, Ralph de Vries, Marieke T. Blom, Karien Stronks, and Mirthe Muilwijk (2024).**  
 *Type 2 diabetes complications in ethnic minority compared with European host populations: a systematic review and meta-analysis.*  
-**BMJ Open Diabetes Research & Care, 12(6).**
+**BMJ Open Diabetes Research & Care, 12(6).**  
+[DOI: 10.1136/bmjdrc-2024-004345](https://doi.org/10.1136/bmjdrc-2024-004345)
 
 ### Preprint
 
-**Argoty-Pantoja AD, Chen Z, Reichelt F, Xie T, Thio CH, Snieder H. (2025).**  
-*Interaction between lifestyle factors and polygenic risk in hypertension: insights from the Lifelines cohort study.*  
-**Preprint, SSRN 5379908.**
+**Anna D. Argoty-Pantoja, Zekai Chen, Felix Reichelt, Tian Xie, Chris H. L. Thio, and Harold Snieder (2025).**  
+*Interaction between Lifestyle Factors and Polygenic Risk in Hypertension: Insights from the Lifelines Cohort Study.*  
+**SSRN preprint.**  
+[DOI: 10.2139/ssrn.5379908](https://doi.org/10.2139/ssrn.5379908) · [SSRN abstract](https://ssrn.com/abstract=5379908)
 
 ### First-Author Manuscripts in Preparation
 
@@ -75,6 +79,8 @@ During my MSc research at the **Dutch Cancer Institute (NKI)**, I used **Mendeli
 **2026:** Oral presentation, Behavior Genetics Association conference.
 
 **2025:** Presentation to the **Wissenschaftsrat (German Science and Humanities Council) delegation**, UMCG, Groningen.
+
+**2025:** Oral presentation at the **Max Planck Conference**.
 
 **2025:** Oral presentation, **4th European Stress Conference**, Innsbruck.
 
