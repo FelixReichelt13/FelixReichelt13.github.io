@@ -2,6 +2,7 @@
 layout: default
 title: Felix Reichelt
 permalink: /
+author_profile: true
 ---
 
 # 👋 Hi, I’m **Felix Reichelt**
@@ -25,7 +26,11 @@ I combine **large population cohorts, twin-family designs, statistical genetics,
 
 **2025.03:** 🎉 Oral presentation at the **Max Planck Conference**.
 
-**2025:** 🎉 Oral presentation at the **4th European Stress Conference**, Innsbruck, Austria.
+**2025.03:** 🎉 Oral presentation at the **4th European Stress Conference**, Innsbruck, Austria.
+
+**2025.08:** 🎉 Panel contribution at **ISCOMS, UMCG**: *“Innovating Stress Research: from Lab to Real Life.”*
+
+**2024.05:** 🎉 Oral presentation at **WEON, the Annual Netherlands Epidemiology Congress**. The work was nominated for the **WEON Student Award**.
 
 # 🚩 Research Projects
 
@@ -75,15 +80,17 @@ My thesis examines how stress exposures are shaped by genetic and environmental 
 
 ## Published
 
-**Beulens JW, Reichelt F, Remmelzwaal S, Rutters F, Strooij B, Harms P, et al. (2024).**  
+**Joline W. J. Beulens, Felix Reichelt, Sharon Remmelzwaal, Femke Rutters, Bianca Strooij, Peter Harms, Ralph de Vries, Marieke T. Blom, Karien Stronks, and Mirthe Muilwijk (2024).**  
 *Type 2 diabetes complications in ethnic minority compared with European host populations: a systematic review and meta-analysis.*  
-**BMJ Open Diabetes Research & Care, 12(6).**
+**BMJ Open Diabetes Research & Care, 12(6).**  
+[DOI: 10.1136/bmjdrc-2024-004345](https://doi.org/10.1136/bmjdrc-2024-004345)
 
 ## Preprint
 
-**Argoty-Pantoja AD, Chen Z, Reichelt F, Xie T, Thio CH, Snieder H. (2025).**  
-*Interaction between lifestyle factors and polygenic risk in hypertension: insights from the Lifelines cohort study.*  
-**Preprint, SSRN 5379908.**
+**Anna D. Argoty-Pantoja, Zekai Chen, Felix Reichelt, Tian Xie, Chris H. L. Thio, and Harold Snieder (2025).**  
+*Interaction between Lifestyle Factors and Polygenic Risk in Hypertension: Insights from the Lifelines Cohort Study.*  
+**SSRN preprint.**  
+[DOI: 10.2139/ssrn.5379908](https://doi.org/10.2139/ssrn.5379908) · [SSRN abstract](https://ssrn.com/abstract=5379908)
 
 ## First-Author Manuscripts in Preparation
 
@@ -99,6 +106,8 @@ My thesis examines how stress exposures are shaped by genetic and environmental 
 
 **2025:** *“Heritability of Stress Exposures: Insights from the Lifelines Cohort,”* presentation to the **Wissenschaftsrat (German Science and Humanities Council) delegation**, UMCG, Groningen.
 
+**2025:** Oral presentation at the **Max Planck Conference**.
+
 **2025:** Oral presentation, **4th European Stress Conference**, Innsbruck, Austria.
 
 **2025:** Panel contribution, *“Innovating Stress Research: from Lab to Real Life,”* ISCOMS, UMCG, Groningen.
@@ -108,7 +117,6 @@ My thesis examines how stress exposures are shaped by genetic and environmental 
 **2024:** Oral presentation, **WEON Annual Netherlands Epidemiology Congress**, Utrecht.
 
 **2024:** Poster presentation, **Stress-in-Action Consortium event at the Royal Netherlands Academy of Arts and Sciences (KNAW)**, Amsterdam.
-
 
 # 📖 Education
 
@@ -171,3 +179,10 @@ Before my PhD, I worked across clinical and molecular laboratory environments:
 # 🎯 Interests
 
 Yoga · Ballroom dancing · Parachute jumping · Krav Maga · Traveling · Powerlifting · Science fiction
+
+# ✉️ Contact
+
+📧 [felix1395@live.de](mailto:felix1395@live.de)  
+💼 [LinkedIn](https://www.linkedin.com/in/felixreichelt)  
+🖥️ [GitHub](https://github.com/FelixReichelt13)  
+🎓 [Google Scholar](https://scholar.google.com/citations?user=sIZi9sAAAAAJ)
