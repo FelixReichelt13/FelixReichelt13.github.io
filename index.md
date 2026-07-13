@@ -23,11 +23,9 @@ I combine **large population cohorts, twin-family designs, statistical genetics,
 
 **2025.08:** 🎉 Poster presentation at the **International Genetic Epidemiology Society (IGES) Conference**, Cologne.
 
+**2025.03:** 🎉 Oral presentation at the **Max Planck Conference**.
+
 **2025:** 🎉 Oral presentation at the **4th European Stress Conference**, Innsbruck, Austria.
-
-**2025:** 🎉 Panel contribution at **ISCOMS, UMCG**: *“Innovating Stress Research: from Lab to Real Life.”*
-
-**2024:** 🎉 Oral presentation at **WEON, the Annual Netherlands Epidemiology Congress**, on the heritability of stress exposures in Lifelines. The work was nominated for the **WEON Student Award**.
 
 # 🚩 Research Projects
 
@@ -110,6 +108,7 @@ My thesis examines how stress exposures are shaped by genetic and environmental 
 **2024:** Oral presentation, **WEON Annual Netherlands Epidemiology Congress**, Utrecht.
 
 **2024:** Poster presentation, **Stress-in-Action Consortium event at the Royal Netherlands Academy of Arts and Sciences (KNAW)**, Amsterdam.
+
 
 # 📖 Education
 
