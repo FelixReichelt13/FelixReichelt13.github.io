@@ -1,45 +1,136 @@
-title: "Felix Reichelt"
-description: "PhD candidate (Genetic Epidemiology, UMCG). Gene × stress exposure and response in relation to cardiometabolic health."
-repository: "FelixReichelt13/FelixReichelt13.github.io"
-url: "https://felixreichelt13.github.io"
-baseurl: ""
+# Site Settings
+title                    : "Felix Reichelt"
+description              : "PhD candidate in Genetic Epidemiology at UMCG. Genetic liability, stress exposure, and cardiometabolic health."
+repository               : "FelixReichelt13/FelixReichelt13.github.io"
+google_scholar_stats_use_cdn : true
+
+google_analytics_id      :
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
+
+# Site Author
+author:
+  name             : "Felix Reichelt"
+  avatar           : "images/Lifelines_interview_2.jpeg"
+  bio              : "Genetic Epidemiology · Genes, Stress & Cardiometabolic Health"
+  location         : "Groningen, Netherlands"
+  employer         : "University Medical Center Groningen"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=sIZi9sAAAAAJ"
+  email            : "felix1395@live.de"
+  researchgate     :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "FelixReichelt13"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         : "felixreichelt"
+  dblp             :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - README.md
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 markdown: kramdown
 highlighter: rouge
-timezone: Europe/Amsterdam
-
-include:
-  - _pages
-
-exclude:
-  - README.md
-  - docs
-  - google_scholar_crawler
-  - Gemfile
-  - Gemfile.lock
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 kramdown:
   input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
-author:
-  name: "Felix Reichelt"
-  email: "felix1395@live.de"
-  location: "Groningen, NL"
-  employer: "UMC Groningen — Department of Epidemiology"
-  github: "FelixReichelt13"
-  linkedin: "felixreichelt"
-  googlescholar: "https://scholar.google.com/citations?user=sIZi9sAAAAAJ"
-  avatar: "/images/Lifelines_interview_2.jpeg"
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
 
-nav:
-  - title: "About"
-    url: "/"
-  - title: "Publications"
-    url: "/publications/"
-  - title: "CV"
-    url: "/cv/"
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+timezone: Europe/Amsterdam
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
