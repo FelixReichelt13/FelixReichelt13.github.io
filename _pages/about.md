@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% comment %} Homepage content is split into verified includes. {% endcomment %}
+
 {% include felix-intro.md %}
 
 {% include felix-news.md %}
