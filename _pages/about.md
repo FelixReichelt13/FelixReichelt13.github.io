@@ -1,7 +1,19 @@
 ---
-layout: default
-title: About
-permalink: /about/
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-I investigate how heritable liability to stress exposures relates to cardiometabolic outcomes, using the Lifelines Cohort. Current analyses focus on childhood trauma, long-term difficulties, stressful life events, loneliness, and social support, in relation to neuroticism, extraversion, and conscientiousness.
+{% include felix-intro.md %}
+
+{% include felix-news.md %}
+
+{% include felix-projects.md %}
+
+{% include felix-publications.md %}
+
+{% include felix-cv.md %}
