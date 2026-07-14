@@ -1,197 +1,72 @@
-<img src="images/Lifelines_interview_2.jpeg" alt="Felix Reichelt" width="220" style="border-radius:50%; float:right; margin:0 0 1rem 1.5rem;">
 
-# 👋 Hi, I’m **Felix Reichelt**
-
-I am a PhD candidate in **Genetic Epidemiology** at the **University Medical Center Groningen (UMCG) / University of Groningen** and a registered **Epidemiologist B**. My doctoral research is embedded in the **Stress-in-Action consortium**, a seven-university collaboration investigating how genetic vulnerability and stress exposures shape health across the life course.
-
-My research focuses on why individuals differ in their exposure to stressful experiences and how genetic liability and stress jointly relate to cardiometabolic health. Specifically, I aim to:
-
-1. Quantify the **heritability and genetic architecture of stress exposures and vulnerability traits**.
-2. Characterize **genetic and environmental covariance between stress exposures and personality traits** using twin- and family-based designs.
-3. Investigate **gene × stress-exposure and gene × stress-response interplay in cardiometabolic outcomes**.
-4. Integrate **polygenic risk scores, clinical predictors, and large-scale cohort data** for etiological research and risk modelling.
-
-I combine **large population cohorts, twin-family designs, statistical genetics, causal inference, and reproducible computational workflows**. My current work uses data from **Lifelines (N ≈ 160,000)**, the **Netherlands Twin Register**, and the **ImaLife cohort**. My broader background spans molecular cell biology, biomedical data science, proteomics, Mendelian randomization, and clinical genetic diagnostics, giving me experience across both wet-lab and computational research environments.
-
-<div style="clear:both"></div>
-
-# 🔥 News
-
-**2026.06:** 🎉 Oral presentation at the **Behavior Genetics Association (BGA) conference**: *“Genetic and Environmental Contributions to Personality–Stress Exposure Covariance in a Dutch Twin Sample.”*
-
-**2025.08:** 🎉 Poster presentation at the **International Genetic Epidemiology Society (IGES) Conference**, Cologne.
-
-**2025.03:** 🎉 Oral presentation at the **Max Planck Conference**.
-
-**2025.03:** 🎉 Oral presentation at the **4th European Stress Conference**, Innsbruck, Austria.
-
-**2025.08:** 🎉 Panel contribution at **ISCOMS, UMCG**: *“Innovating Stress Research: from Lab to Real Life.”*
-
-**2024.05:** 🎉 Oral presentation at **WEON, the Annual Netherlands Epidemiology Congress**. The work was nominated for the **WEON Student Award**.
-
-**2023.06:** 🎉🎉 Felix became a member of the [**Stress in Action Consortium (SIA)**](https://stress-in-action.nl/) — excited to work with excellent scientists and passionate early-career researchers dedicated to the study of stress! 👉 Visit [**Felix's profile on the Stress in Action website**](https://stress-in-action.nl/felix-reichelt/).
-
-# 🚩 Research Projects
-
-## Heritability and Genetic Architecture of Stress Exposures
-
-Using the multigenerational **Lifelines cohort**, I investigate genetic and environmental contributions to long-term difficulties, stressful life events, childhood trauma, loneliness, and social support.
-
-**Research focus:**
-
-* Estimating the heritability of different stress exposures.
-* Comparing genetic architecture across stressor domains.
-* Investigating genetic correlations between stress exposures and vulnerability traits.
-* Evaluating how familial and genetic liability may contribute to individual differences in exposure to stressful environments.
-
-## Personality–Stress Exposure Covariance in Twin Data
-
-Using data from the **Netherlands Twin Register**, I investigate why personality traits and stressful life events co-occur.
-
-**Research focus:**
-
-* Twin- and family-based variance decomposition.
-* Genetic and unique environmental correlations.
-* Dependent versus independent stressful life events.
-* Sex differences in the magnitude of genetic and environmental contributions.
-
-## Polygenic Risk, Stress, and Cardiometabolic Health
-
-I investigate how **polygenic liability and stress exposures or stress responses jointly relate to cardiometabolic outcomes**.
-
-Current work includes polygenic prediction and integrative risk modelling, with a particular focus on cardiovascular risk markers such as **coronary artery calcification in the ImaLife subcohort**.
-
-## Causal Inference and Molecular Epidemiology
-
-I also work with **Mendelian randomization and GWAS-derived data**. During my MSc research at the **Dutch Cancer Institute (NKI)**, I investigated causal effects of breast cancer risk factors across molecular breast cancer subtypes.
-
-# 📑 PhD Thesis
-
-**Title:** *When Genes Stress Out: Deconstructing the Heritability of Stress Exposures and their Relation with Cardiometabolic Outcomes*
-
-**Institution:** University Medical Center Groningen / University of Groningen  
-**Supervisors:** Prof. Harold Snieder, Prof. Eco de Geus, and Prof. Maryam Kavousi  
-**Defense planned:** 1 July 2027
-
-My thesis examines how stress exposures are shaped by genetic and environmental influences and how genes and stress jointly relate to cardiometabolic health. The work combines multigenerational cohort data, twin-family designs, GWAS-derived information, polygenic risk scores, and epidemiological methods.
-
-# 📝 Publications and Ongoing Manuscripts
-
-## Published
-
-**Joline W. J. Beulens, Felix Reichelt, Sharon Remmelzwaal, Femke Rutters, Bianca Strooij, Peter Harms, Ralph de Vries, Marieke T. Blom, Karien Stronks, and Mirthe Muilwijk (2024).**  
-*Type 2 diabetes complications in ethnic minority compared with European host populations: a systematic review and meta-analysis.*  
-**BMJ Open Diabetes Research & Care, 12(6).**  
-[DOI: 10.1136/bmjdrc-2024-004345](https://doi.org/10.1136/bmjdrc-2024-004345)
-
-### Figure
-
-![Figure for publication 1](images/Publication_1.png)
-
-## Preprint
-
-**Anna D. Argoty-Pantoja, Zekai Chen, Felix Reichelt, Tian Xie, Chris H. L. Thio, and Harold Snieder (2025).**  
-*Interaction between Lifestyle Factors and Polygenic Risk in Hypertension: Insights from the Lifelines Cohort Study.*  
-**SSRN preprint.**  
-[DOI: 10.2139/ssrn.5379908](https://doi.org/10.2139/ssrn.5379908) · [SSRN abstract](https://ssrn.com/abstract=5379908)
-
-### Figure
-
-![Relative Excess Risk from the Interaction between PRS and BMI on hypertension](images/Publication_2.png)
-
-This figure illustrates the individual effects of polygenic risk, overweight, and obesity on hypertension, together with their additive interaction effects. Overweight and especially obesity are associated with higher hypertension risk, and the excess risk is greater in individuals with higher polygenic risk. The positive relative excess risk due to interaction indicates that BMI amplifies genetic susceptibility beyond the sum of their separate effects. In line with the broader study findings, BMI showed the strongest interaction with polygenic risk among the lifestyle factors examined.
-
-## First-Author Manuscripts in Preparation
-
-**Heritability of Stress Exposures: Insights from the Lifelines Cohort**
-
-**Replication of Stress Exposure Heritability Study in the Dutch Twin Registry**
-
-**Polygenic Risk Score Analysis of Stress Exposures and Cardiometabolic Disorders**
-
-# 🧑‍🏫 Academic Talks and Conferences
-
-**2026:** Oral presentation, Behavior Genetics Association conference: *“Genetic and Environmental Contributions to Personality–Stress Exposure Covariance in a Dutch Twin Sample.”*
-
-**2025:** *“Heritability of Stress Exposures: Insights from the Lifelines Cohort,”* presentation to the **Wissenschaftsrat (German Science and Humanities Council) delegation**, UMCG, Groningen.
-
-**2025:** Oral presentation at the **Max Planck Conference**.
-
-**2025:** Oral presentation, **4th European Stress Conference**, Innsbruck, Austria.
-
-**2025:** Panel contribution, *“Innovating Stress Research: from Lab to Real Life,”* ISCOMS, UMCG, Groningen.
-
-**2025:** Poster presentation, **International Genetic Epidemiology Society (IGES) Conference**, Cologne.
-
-**2024:** Oral presentation, **WEON Annual Netherlands Epidemiology Congress**, Utrecht.
-
-**2024:** Poster presentation, **Stress-in-Action Consortium event at the Royal Netherlands Academy of Arts and Sciences (KNAW)**, Amsterdam.
-
-# 📖 Education
-
-**2023–2027 — PhD Candidate, Genetic Epidemiology**  
-University Medical Center Groningen / University of Groningen  
-*Stress-in-Action: Genes–Stress Interplay and Cardiometabolic Health*
-
-**2020–2023 — MSc Biomedical Sciences, Medical Biology**  
-University of Amsterdam  
-Major: **Big Biomedical Data Analysis**, including genomics, transcriptomics, proteomics, and metabolomics.
-
-MSc research included **Mendelian randomization at the Dutch Cancer Institute (NKI)** and **comparative LC-MS proteomics at the Swammerdam Institute for Life Sciences (SILS)**.
-
-**2015–2019 — BSc Molecular Cell Biology**  
-Wageningen University & Research  
-BSc thesis research focused on **antibiotic resistance in a genetics laboratory**.
-
-# 💻 Methods and Skills
-
-**Quantitative and statistical genetics:** twin- and family-based heritability modelling, variance decomposition, genetic correlation estimation, polygenic risk scores, GWAS-derived summary statistics, and multi-trait approaches.
-
-**Causal inference and epidemiology:** Mendelian randomization, systematic reviews and meta-analysis, study design, bias and validity assessment, longitudinal data analysis, and prediction modelling.
-
-**Programming and infrastructure:** R and Python, reproducible version-controlled workflows, large-scale cohort data, and high-performance computing workflows.
-
-**Molecular and laboratory methods:** DNA/RNA isolation, qPCR, ELISA, flow cytometry, fluorescence microscopy, and LC-MS proteomics.
-
-**Certification:** Laboratory Animal Science, species-specific rat and mouse module (**Article 9 certification**).
-
-# 🎓 Professional Training and Memberships
-
-I have completed **75+ ECTS of doctoral training** in genetic epidemiology, statistical genetics, epidemiology, applied statistics, scientific communication, research ethics, and research infrastructure.
-
-Selected specialist training includes:
-
-* Behavioral Genetics at Vrije Universiteit Amsterdam.
-* GWAS prediction of complex phenotypes at Aarhus University Summer School.
-* Mendelian Randomization at the University of Cambridge.
-* Applied Longitudinal Data Analysis at the University of Groningen.
-* Data Science and AI in Health at the University of Groningen Summer School.
-
-I am a member of the **Vereniging voor Epidemiologie (VvE)** and participate in Stress-in-Action genetics working groups and the Epidemiologist B journal club. From 2023 to 2025, I represented UMCG in the **Stress-in-Action Junior Think Tank** and have experience supervising Bachelor-level research.
-
-# 🧪 Prior Laboratory and Clinical Experience
-
-Before my PhD, I worked across clinical and molecular laboratory environments:
-
-**Sanquin, Amsterdam:** autoimmune diagnostics using ELISA, flow cytometry, and fluorescence microscopy.
-
-**inBiome, Amsterdam:** high-throughput molecular COVID-19 diagnostics, DNA/RNA isolation, qPCR, workflow optimisation, and variant screening.
-
-**Centogene, Rostock:** rare disease and oncogenetic diagnostics, including DNA extraction, biobanking, and work with BRCA1, BRCA2, and CHEK2 testing workflows.
-
-**Eurofins, Wageningen:** pre-analytical laboratory specimen processing, tracking, and archiving.
-
-# 🌍 Languages
-
-🇩🇪 German (native) · 🇬🇧 English (C2) · 🇳🇱 Dutch (C1) · 🇸🇪 Swedish (A2) · 🇵🇱 Polish (A1)
-
-# 🎯 Interests
-
-Yoga · Ballroom dancing · Parachute jumping · Krav Maga · Traveling · Powerlifting · Science fiction
-
-## ✉️ Contact
-
-📧 [felix1395@live.de](mailto:felix1395@live.de)  
-💼 [LinkedIn](https://www.linkedin.com/in/felixreichelt)  
-🖥️ [GitHub](https://github.com/FelixReichelt13)  
-🎓 [Google Scholar](https://scholar.google.com/citations?user=sIZi9sAAAAAJ)
+<h1 align="center">
+AcadHomepage
+</h1>
+
+<div align="center">
+
+[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+</div>
+
+<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+
+<p align="center">
+    <br>
+    <img src="docs/screenshot.png" width="100%"/>
+    <br>
+</p>
+
+Some examples:
+- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
+- [Personal Homepage of the author](https://rayeren.github.io/)
+
+## Key Features
+- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
+- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
+- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
+- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+
+## Quick Start
+
+1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
+1. Configure the google scholar citation crawler:
+    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
+    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
+1. Modify the configuration of your homepage `_config.yml`:
+    1. `title`: the title of your homepage
+    1. `description`: the description of your homepage
+    1. `repository`: USER_NAME/REPO_NAME  
+    1. `google_analytics_id` (optional): google analytics ID
+    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
+    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
+    1. More configuration details are described in the comments.
+1. Add your homepage content in `_pages/about.md`.
+    1. You can use html+markdown syntax just same as jekyll.
+    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+        ```html
+        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        ``` 
+        > Q: How to get the google scholar paper ID?   
+        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. Your page will be published at `https://USERNAME.github.io`.
+
+## Debug Locally
+
+1. Clone your REPO to local using `git clone`.
+1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
+1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Open http://127.0.0.1:4000 in your browser.
+1. If you change the source code of the website, the livereload server will automatically refresh.
+1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+
+# Acknowledges
+
+- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
