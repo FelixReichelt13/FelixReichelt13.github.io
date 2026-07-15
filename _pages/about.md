@@ -10,6 +10,8 @@ redirect_from:
 
 {% comment %} Homepage content is split into verified includes. {% endcomment %}
 
+{% include felix-hero.md %}
+
 {% include felix-intro.md %}
 
 {% include felix-news.md %}
