@@ -21,3 +21,5 @@ redirect_from:
 {% include felix-publications.md %}
 
 {% include felix-cv.md %}
+
+{% include felix-contact.md %}
